@@ -7,3 +7,15 @@ h1{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
 }
+
+img{
+  display: inline-block;
+  width: auto;
+  height: 120px;
+  border: 10px solid white;
+  margin: 5px 5px 5px 5px;
+}
+.image-centrada{
+  text-align: center;
+  white-space: normal;
+}
