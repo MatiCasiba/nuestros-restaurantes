@@ -1,6 +1,6 @@
 * Nombre: Matias Casiba
-* Link Github Repo:
-* Link Netlify:
+* Link Github Repo: https://github.com/MatiCasiba/nuestros-restaurantes
+* Link Netlify: https://nuestros-restaurantes.netlify.app/
 
 # Páginas de restaurantes
 Para armar esta página, utilizaremos los siguientes elementos en el index.html:
